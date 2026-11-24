@@ -1,0 +1,18 @@
+[
+  {
+    "id": "q1",
+    "lot": "l10",
+    "qty": 12,
+    "price_cents": 4500,
+    "valid_day": 27,
+    "state": "已接受"
+  },
+  {
+    "id": "q2",
+    "lot": "l11",
+    "qty": 12,
+    "price_cents": 4200,
+    "valid_day": 28,
+    "state": "拟议"
+  }
+]

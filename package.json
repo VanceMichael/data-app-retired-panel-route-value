@@ -1,0 +1,14 @@
+{
+  "name": "retired-panel-route-value",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.23.4 <23"
+  },
+  "scripts": {
+    "test": "node --test",
+    "check": "node scripts/check-data.js",
+    "inspect": "node scripts/check-data.js --inspect"
+  }
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "c1",
+    "kind": "检测",
+    "day": 27,
+    "qty": 10,
+    "reserved": 6
+  },
+  {
+    "id": "c2",
+    "kind": "拆解",
+    "day": 28,
+    "qty": 80,
+    "reserved": 40
+  },
+  {
+    "id": "c3",
+    "kind": "检测",
+    "day": 28,
+    "qty": 10,
+    "reserved": 0
+  }
+]

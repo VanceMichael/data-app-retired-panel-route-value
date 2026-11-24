@@ -1,0 +1,866 @@
+[
+  {
+    "id": "r0",
+    "panel": "p0",
+    "state": "待售",
+    "observed_day": 25
+  },
+  {
+    "id": "r1",
+    "panel": "p1",
+    "state": "已结束",
+    "observed_day": 25
+  },
+  {
+    "id": "r2",
+    "panel": "p2",
+    "state": "返拆中",
+    "observed_day": 25
+  },
+  {
+    "id": "r3",
+    "panel": "p3",
+    "state": "待售",
+    "observed_day": 25
+  },
+  {
+    "id": "r4",
+    "panel": "p4",
+    "state": "已结束",
+    "observed_day": 25
+  },
+  {
+    "id": "r5",
+    "panel": "p5",
+    "state": "返拆中",
+    "observed_day": 25
+  },
+  {
+    "id": "r6",
+    "panel": "p6",
+    "state": "待售",
+    "observed_day": 25
+  },
+  {
+    "id": "r7",
+    "panel": "p7",
+    "state": "已结束",
+    "observed_day": 25
+  },
+  {
+    "id": "r8",
+    "panel": "p8",
+    "state": "返拆中",
+    "observed_day": 25
+  },
+  {
+    "id": "r9",
+    "panel": "p9",
+    "state": "待售",
+    "observed_day": 25
+  },
+  {
+    "id": "r10",
+    "panel": "p10",
+    "state": "已结束",
+    "observed_day": 25
+  },
+  {
+    "id": "r11",
+    "panel": "p11",
+    "state": "返拆中",
+    "observed_day": 25
+  },
+  {
+    "id": "r12",
+    "panel": "p12",
+    "state": "待售",
+    "observed_day": 25
+  },
+  {
+    "id": "r13",
+    "panel": "p13",
+    "state": "已结束",
+    "observed_day": 25
+  },
+  {
+    "id": "r14",
+    "panel": "p14",
+    "state": "返拆中",
+    "observed_day": 25
+  },
+  {
+    "id": "r15",
+    "panel": "p15",
+    "state": "待售",
+    "observed_day": 25
+  },
+  {
+    "id": "r16",
+    "panel": "p16",
+    "state": "已结束",
+    "observed_day": 25
+  },
+  {
+    "id": "r17",
+    "panel": "p17",
+    "state": "返拆中",
+    "observed_day": 25
+  },
+  {
+    "id": "r18",
+    "panel": "p18",
+    "state": "待售",
+    "observed_day": 25
+  },
+  {
+    "id": "r19",
+    "panel": "p19",
+    "state": "已结束",
+    "observed_day": 25
+  },
+  {
+    "id": "r20",
+    "panel": "p20",
+    "state": "返拆中",
+    "observed_day": 25
+  },
+  {
+    "id": "r21",
+    "panel": "p21",
+    "state": "待售",
+    "observed_day": 25
+  },
+  {
+    "id": "r22",
+    "panel": "p22",
+    "state": "已结束",
+    "observed_day": 25
+  },
+  {
+    "id": "r23",
+    "panel": "p23",
+    "state": "返拆中",
+    "observed_day": 25
+  },
+  {
+    "id": "r24",
+    "panel": "p24",
+    "state": "待售",
+    "observed_day": 25
+  },
+  {
+    "id": "r25",
+    "panel": "p25",
+    "state": "已结束",
+    "observed_day": 25
+  },
+  {
+    "id": "r26",
+    "panel": "p26",
+    "state": "返拆中",
+    "observed_day": 25
+  },
+  {
+    "id": "r27",
+    "panel": "p27",
+    "state": "待售",
+    "observed_day": 25
+  },
+  {
+    "id": "r28",
+    "panel": "p28",
+    "state": "已结束",
+    "observed_day": 25
+  },
+  {
+    "id": "r29",
+    "panel": "p29",
+    "state": "返拆中",
+    "observed_day": 25
+  },
+  {
+    "id": "r30",
+    "panel": "p30",
+    "state": "待售",
+    "observed_day": 25
+  },
+  {
+    "id": "r31",
+    "panel": "p31",
+    "state": "已结束",
+    "observed_day": 25
+  },
+  {
+    "id": "r32",
+    "panel": "p32",
+    "state": "返拆中",
+    "observed_day": 25
+  },
+  {
+    "id": "r33",
+    "panel": "p33",
+    "state": "待售",
+    "observed_day": 25
+  },
+  {
+    "id": "r34",
+    "panel": "p34",
+    "state": "已结束",
+    "observed_day": 25
+  },
+  {
+    "id": "r35",
+    "panel": "p35",
+    "state": "返拆中",
+    "observed_day": 25
+  },
+  {
+    "id": "r36",
+    "panel": "p36",
+    "state": "待售",
+    "observed_day": 25
+  },
+  {
+    "id": "r37",
+    "panel": "p37",
+    "state": "已结束",
+    "observed_day": 25
+  },
+  {
+    "id": "r38",
+    "panel": "p38",
+    "state": "返拆中",
+    "observed_day": 25
+  },
+  {
+    "id": "r39",
+    "panel": "p39",
+    "state": "待售",
+    "observed_day": 25
+  },
+  {
+    "id": "r40",
+    "panel": "p40",
+    "state": "已结束",
+    "observed_day": 25
+  },
+  {
+    "id": "r41",
+    "panel": "p41",
+    "state": "返拆中",
+    "observed_day": 25
+  },
+  {
+    "id": "r42",
+    "panel": "p42",
+    "state": "待售",
+    "observed_day": 25
+  },
+  {
+    "id": "r43",
+    "panel": "p43",
+    "state": "已结束",
+    "observed_day": 25
+  },
+  {
+    "id": "r44",
+    "panel": "p44",
+    "state": "返拆中",
+    "observed_day": 25
+  },
+  {
+    "id": "r45",
+    "panel": "p45",
+    "state": "待售",
+    "observed_day": 25
+  },
+  {
+    "id": "r46",
+    "panel": "p46",
+    "state": "已结束",
+    "observed_day": 25
+  },
+  {
+    "id": "r47",
+    "panel": "p47",
+    "state": "返拆中",
+    "observed_day": 25
+  },
+  {
+    "id": "r48",
+    "panel": "p48",
+    "state": "待售",
+    "observed_day": 25
+  },
+  {
+    "id": "r49",
+    "panel": "p49",
+    "state": "已结束",
+    "observed_day": 25
+  },
+  {
+    "id": "r50",
+    "panel": "p50",
+    "state": "返拆中",
+    "observed_day": 25
+  },
+  {
+    "id": "r51",
+    "panel": "p51",
+    "state": "待售",
+    "observed_day": 25
+  },
+  {
+    "id": "r52",
+    "panel": "p52",
+    "state": "已结束",
+    "observed_day": 25
+  },
+  {
+    "id": "r53",
+    "panel": "p53",
+    "state": "返拆中",
+    "observed_day": 25
+  },
+  {
+    "id": "r54",
+    "panel": "p54",
+    "state": "待售",
+    "observed_day": 25
+  },
+  {
+    "id": "r55",
+    "panel": "p55",
+    "state": "已结束",
+    "observed_day": 25
+  },
+  {
+    "id": "r56",
+    "panel": "p56",
+    "state": "返拆中",
+    "observed_day": 25
+  },
+  {
+    "id": "r57",
+    "panel": "p57",
+    "state": "待售",
+    "observed_day": 25
+  },
+  {
+    "id": "r58",
+    "panel": "p58",
+    "state": "已结束",
+    "observed_day": 25
+  },
+  {
+    "id": "r59",
+    "panel": "p59",
+    "state": "返拆中",
+    "observed_day": 25
+  },
+  {
+    "id": "r60",
+    "panel": "p60",
+    "state": "待售",
+    "observed_day": 25
+  },
+  {
+    "id": "r61",
+    "panel": "p61",
+    "state": "已结束",
+    "observed_day": 25
+  },
+  {
+    "id": "r62",
+    "panel": "p62",
+    "state": "返拆中",
+    "observed_day": 25
+  },
+  {
+    "id": "r63",
+    "panel": "p63",
+    "state": "待售",
+    "observed_day": 25
+  },
+  {
+    "id": "r64",
+    "panel": "p64",
+    "state": "已结束",
+    "observed_day": 25
+  },
+  {
+    "id": "r65",
+    "panel": "p65",
+    "state": "返拆中",
+    "observed_day": 25
+  },
+  {
+    "id": "r66",
+    "panel": "p66",
+    "state": "待售",
+    "observed_day": 25
+  },
+  {
+    "id": "r67",
+    "panel": "p67",
+    "state": "已结束",
+    "observed_day": 25
+  },
+  {
+    "id": "r68",
+    "panel": "p68",
+    "state": "返拆中",
+    "observed_day": 25
+  },
+  {
+    "id": "r69",
+    "panel": "p69",
+    "state": "待售",
+    "observed_day": 25
+  },
+  {
+    "id": "r70",
+    "panel": "p70",
+    "state": "已结束",
+    "observed_day": 25
+  },
+  {
+    "id": "r71",
+    "panel": "p71",
+    "state": "返拆中",
+    "observed_day": 25
+  },
+  {
+    "id": "r72",
+    "panel": "p72",
+    "state": "待售",
+    "observed_day": 25
+  },
+  {
+    "id": "r73",
+    "panel": "p73",
+    "state": "已结束",
+    "observed_day": 25
+  },
+  {
+    "id": "r74",
+    "panel": "p74",
+    "state": "返拆中",
+    "observed_day": 25
+  },
+  {
+    "id": "r75",
+    "panel": "p75",
+    "state": "待售",
+    "observed_day": 25
+  },
+  {
+    "id": "r76",
+    "panel": "p76",
+    "state": "已结束",
+    "observed_day": 25
+  },
+  {
+    "id": "r77",
+    "panel": "p77",
+    "state": "返拆中",
+    "observed_day": 25
+  },
+  {
+    "id": "r78",
+    "panel": "p78",
+    "state": "待售",
+    "observed_day": 25
+  },
+  {
+    "id": "r79",
+    "panel": "p79",
+    "state": "已结束",
+    "observed_day": 25
+  },
+  {
+    "id": "r80",
+    "panel": "p80",
+    "state": "返拆中",
+    "observed_day": 25
+  },
+  {
+    "id": "r81",
+    "panel": "p81",
+    "state": "待售",
+    "observed_day": 25
+  },
+  {
+    "id": "r82",
+    "panel": "p82",
+    "state": "已结束",
+    "observed_day": 25
+  },
+  {
+    "id": "r83",
+    "panel": "p83",
+    "state": "返拆中",
+    "observed_day": 25
+  },
+  {
+    "id": "r84",
+    "panel": "p84",
+    "state": "待售",
+    "observed_day": 25
+  },
+  {
+    "id": "r85",
+    "panel": "p85",
+    "state": "已结束",
+    "observed_day": 25
+  },
+  {
+    "id": "r86",
+    "panel": "p86",
+    "state": "返拆中",
+    "observed_day": 25
+  },
+  {
+    "id": "r87",
+    "panel": "p87",
+    "state": "待售",
+    "observed_day": 25
+  },
+  {
+    "id": "r88",
+    "panel": "p88",
+    "state": "已结束",
+    "observed_day": 25
+  },
+  {
+    "id": "r89",
+    "panel": "p89",
+    "state": "返拆中",
+    "observed_day": 25
+  },
+  {
+    "id": "r90",
+    "panel": "p90",
+    "state": "待售",
+    "observed_day": 25
+  },
+  {
+    "id": "r91",
+    "panel": "p91",
+    "state": "已结束",
+    "observed_day": 25
+  },
+  {
+    "id": "r92",
+    "panel": "p92",
+    "state": "返拆中",
+    "observed_day": 25
+  },
+  {
+    "id": "r93",
+    "panel": "p93",
+    "state": "待售",
+    "observed_day": 25
+  },
+  {
+    "id": "r94",
+    "panel": "p94",
+    "state": "已结束",
+    "observed_day": 25
+  },
+  {
+    "id": "r95",
+    "panel": "p95",
+    "state": "返拆中",
+    "observed_day": 25
+  },
+  {
+    "id": "r96",
+    "panel": "p96",
+    "state": "待售",
+    "observed_day": 25
+  },
+  {
+    "id": "r97",
+    "panel": "p97",
+    "state": "已结束",
+    "observed_day": 25
+  },
+  {
+    "id": "r98",
+    "panel": "p98",
+    "state": "返拆中",
+    "observed_day": 25
+  },
+  {
+    "id": "r99",
+    "panel": "p99",
+    "state": "待售",
+    "observed_day": 25
+  },
+  {
+    "id": "r100",
+    "panel": "p100",
+    "state": "已结束",
+    "observed_day": 25
+  },
+  {
+    "id": "r101",
+    "panel": "p101",
+    "state": "返拆中",
+    "observed_day": 25
+  },
+  {
+    "id": "r102",
+    "panel": "p102",
+    "state": "待售",
+    "observed_day": 25
+  },
+  {
+    "id": "r103",
+    "panel": "p103",
+    "state": "已结束",
+    "observed_day": 25
+  },
+  {
+    "id": "r104",
+    "panel": "p104",
+    "state": "返拆中",
+    "observed_day": 25
+  },
+  {
+    "id": "r105",
+    "panel": "p105",
+    "state": "待售",
+    "observed_day": 25
+  },
+  {
+    "id": "r106",
+    "panel": "p106",
+    "state": "已结束",
+    "observed_day": 25
+  },
+  {
+    "id": "r107",
+    "panel": "p107",
+    "state": "返拆中",
+    "observed_day": 25
+  },
+  {
+    "id": "r108",
+    "panel": "p108",
+    "state": "待售",
+    "observed_day": 25
+  },
+  {
+    "id": "r109",
+    "panel": "p109",
+    "state": "已结束",
+    "observed_day": 25
+  },
+  {
+    "id": "r110",
+    "panel": "p110",
+    "state": "返拆中",
+    "observed_day": 25
+  },
+  {
+    "id": "r111",
+    "panel": "p111",
+    "state": "待售",
+    "observed_day": 25
+  },
+  {
+    "id": "r112",
+    "panel": "p112",
+    "state": "已结束",
+    "observed_day": 25
+  },
+  {
+    "id": "r113",
+    "panel": "p113",
+    "state": "返拆中",
+    "observed_day": 25
+  },
+  {
+    "id": "r114",
+    "panel": "p114",
+    "state": "待售",
+    "observed_day": 25
+  },
+  {
+    "id": "r115",
+    "panel": "p115",
+    "state": "已结束",
+    "observed_day": 25
+  },
+  {
+    "id": "r116",
+    "panel": "p116",
+    "state": "返拆中",
+    "observed_day": 25
+  },
+  {
+    "id": "r117",
+    "panel": "p117",
+    "state": "待售",
+    "observed_day": 25
+  },
+  {
+    "id": "r118",
+    "panel": "p118",
+    "state": "已结束",
+    "observed_day": 25
+  },
+  {
+    "id": "r119",
+    "panel": "p119",
+    "state": "返拆中",
+    "observed_day": 25
+  },
+  {
+    "id": "r120",
+    "panel": "p120",
+    "state": "待售",
+    "observed_day": 25
+  },
+  {
+    "id": "r121",
+    "panel": "p121",
+    "state": "已结束",
+    "observed_day": 25
+  },
+  {
+    "id": "r122",
+    "panel": "p122",
+    "state": "返拆中",
+    "observed_day": 25
+  },
+  {
+    "id": "r123",
+    "panel": "p123",
+    "state": "待售",
+    "observed_day": 25
+  },
+  {
+    "id": "r124",
+    "panel": "p124",
+    "state": "已结束",
+    "observed_day": 25
+  },
+  {
+    "id": "r125",
+    "panel": "p125",
+    "state": "返拆中",
+    "observed_day": 25
+  },
+  {
+    "id": "r126",
+    "panel": "p126",
+    "state": "待售",
+    "observed_day": 25
+  },
+  {
+    "id": "r127",
+    "panel": "p127",
+    "state": "已结束",
+    "observed_day": 25
+  },
+  {
+    "id": "r128",
+    "panel": "p128",
+    "state": "返拆中",
+    "observed_day": 25
+  },
+  {
+    "id": "r129",
+    "panel": "p129",
+    "state": "待售",
+    "observed_day": 25
+  },
+  {
+    "id": "r130",
+    "panel": "p130",
+    "state": "已结束",
+    "observed_day": 25
+  },
+  {
+    "id": "r131",
+    "panel": "p131",
+    "state": "返拆中",
+    "observed_day": 25
+  },
+  {
+    "id": "r132",
+    "panel": "p132",
+    "state": "待售",
+    "observed_day": 25
+  },
+  {
+    "id": "r133",
+    "panel": "p133",
+    "state": "已结束",
+    "observed_day": 25
+  },
+  {
+    "id": "r134",
+    "panel": "p134",
+    "state": "返拆中",
+    "observed_day": 25
+  },
+  {
+    "id": "r135",
+    "panel": "p135",
+    "state": "待售",
+    "observed_day": 25
+  },
+  {
+    "id": "r136",
+    "panel": "p136",
+    "state": "已结束",
+    "observed_day": 25
+  },
+  {
+    "id": "r137",
+    "panel": "p137",
+    "state": "返拆中",
+    "observed_day": 25
+  },
+  {
+    "id": "r138",
+    "panel": "p138",
+    "state": "待售",
+    "observed_day": 25
+  },
+  {
+    "id": "r139",
+    "panel": "p139",
+    "state": "已结束",
+    "observed_day": 25
+  },
+  {
+    "id": "r140",
+    "panel": "p140",
+    "state": "返拆中",
+    "observed_day": 25
+  },
+  {
+    "id": "r141",
+    "panel": "p141",
+    "state": "待售",
+    "observed_day": 25
+  },
+  {
+    "id": "r142",
+    "panel": "p142",
+    "state": "已结束",
+    "observed_day": 25
+  },
+  {
+    "id": "r143",
+    "panel": "p143",
+    "state": "返拆中",
+    "observed_day": 25
+  }
+]

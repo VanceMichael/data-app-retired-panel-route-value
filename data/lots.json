@@ -1,0 +1,98 @@
+[
+  {
+    "id": "l0",
+    "source": "屋顶",
+    "age_years": 7,
+    "qty": 12,
+    "purchase_cents": 50000,
+    "initial_grade": "甲"
+  },
+  {
+    "id": "l1",
+    "source": "电站",
+    "age_years": 8,
+    "qty": 12,
+    "purchase_cents": 51000,
+    "initial_grade": "乙"
+  },
+  {
+    "id": "l2",
+    "source": "未知",
+    "age_years": 9,
+    "qty": 12,
+    "purchase_cents": 52000,
+    "initial_grade": "甲"
+  },
+  {
+    "id": "l3",
+    "source": "屋顶",
+    "age_years": 10,
+    "qty": 12,
+    "purchase_cents": 53000,
+    "initial_grade": "乙"
+  },
+  {
+    "id": "l4",
+    "source": "电站",
+    "age_years": 11,
+    "qty": 12,
+    "purchase_cents": 54000,
+    "initial_grade": "甲"
+  },
+  {
+    "id": "l5",
+    "source": "未知",
+    "age_years": 12,
+    "qty": 12,
+    "purchase_cents": 55000,
+    "initial_grade": "乙"
+  },
+  {
+    "id": "l6",
+    "source": "屋顶",
+    "age_years": 13,
+    "qty": 12,
+    "purchase_cents": 56000,
+    "initial_grade": "甲"
+  },
+  {
+    "id": "l7",
+    "source": "电站",
+    "age_years": 14,
+    "qty": 12,
+    "purchase_cents": 57000,
+    "initial_grade": "乙"
+  },
+  {
+    "id": "l8",
+    "source": "未知",
+    "age_years": 15,
+    "qty": 12,
+    "purchase_cents": 58000,
+    "initial_grade": "甲"
+  },
+  {
+    "id": "l9",
+    "source": "屋顶",
+    "age_years": 16,
+    "qty": 12,
+    "purchase_cents": 59000,
+    "initial_grade": "乙"
+  },
+  {
+    "id": "l10",
+    "source": "电站",
+    "age_years": 17,
+    "qty": 12,
+    "purchase_cents": 60000,
+    "initial_grade": "甲"
+  },
+  {
+    "id": "l11",
+    "source": "未知",
+    "age_years": 18,
+    "qty": 12,
+    "purchase_cents": 61000,
+    "initial_grade": "乙"
+  }
+]

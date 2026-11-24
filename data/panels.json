@@ -1,0 +1,1442 @@
+[
+  {
+    "id": "p0",
+    "lot": "l0",
+    "grade": "乙",
+    "sampling": "优先好件",
+    "prob": 0.25,
+    "suggested_route": "再用",
+    "actual_route": "再用",
+    "arrived_day": 0
+  },
+  {
+    "id": "p1",
+    "lot": "l0",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "拆解",
+    "arrived_day": 0
+  },
+  {
+    "id": "p2",
+    "lot": "l0",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用后返拆",
+    "arrived_day": 0
+  },
+  {
+    "id": "p3",
+    "lot": "l0",
+    "grade": "乙",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用",
+    "arrived_day": 0
+  },
+  {
+    "id": "p4",
+    "lot": "l0",
+    "grade": "甲",
+    "sampling": "优先好件",
+    "prob": 0.25,
+    "suggested_route": "再用",
+    "actual_route": "拆解",
+    "arrived_day": 0
+  },
+  {
+    "id": "p5",
+    "lot": "l0",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用后返拆",
+    "arrived_day": 0
+  },
+  {
+    "id": "p6",
+    "lot": "l0",
+    "grade": "乙",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用",
+    "arrived_day": 0
+  },
+  {
+    "id": "p7",
+    "lot": "l0",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "拆解",
+    "arrived_day": 0
+  },
+  {
+    "id": "p8",
+    "lot": "l0",
+    "grade": "甲",
+    "sampling": "优先好件",
+    "prob": 0.25,
+    "suggested_route": "再用",
+    "actual_route": "再用后返拆",
+    "arrived_day": 0
+  },
+  {
+    "id": "p9",
+    "lot": "l0",
+    "grade": "乙",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用",
+    "arrived_day": 0
+  },
+  {
+    "id": "p10",
+    "lot": "l0",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "拆解",
+    "arrived_day": 0
+  },
+  {
+    "id": "p11",
+    "lot": "l0",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用后返拆",
+    "arrived_day": 0
+  },
+  {
+    "id": "p12",
+    "lot": "l1",
+    "grade": "乙",
+    "sampling": "优先好件",
+    "prob": 0.25,
+    "suggested_route": "再用",
+    "actual_route": "再用",
+    "arrived_day": 1
+  },
+  {
+    "id": "p13",
+    "lot": "l1",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "拆解",
+    "arrived_day": 1
+  },
+  {
+    "id": "p14",
+    "lot": "l1",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用后返拆",
+    "arrived_day": 1
+  },
+  {
+    "id": "p15",
+    "lot": "l1",
+    "grade": "乙",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用",
+    "arrived_day": 1
+  },
+  {
+    "id": "p16",
+    "lot": "l1",
+    "grade": "甲",
+    "sampling": "优先好件",
+    "prob": 0.25,
+    "suggested_route": "再用",
+    "actual_route": "拆解",
+    "arrived_day": 1
+  },
+  {
+    "id": "p17",
+    "lot": "l1",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用后返拆",
+    "arrived_day": 1
+  },
+  {
+    "id": "p18",
+    "lot": "l1",
+    "grade": "乙",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用",
+    "arrived_day": 1
+  },
+  {
+    "id": "p19",
+    "lot": "l1",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "拆解",
+    "arrived_day": 1
+  },
+  {
+    "id": "p20",
+    "lot": "l1",
+    "grade": "甲",
+    "sampling": "优先好件",
+    "prob": 0.25,
+    "suggested_route": "再用",
+    "actual_route": "再用后返拆",
+    "arrived_day": 1
+  },
+  {
+    "id": "p21",
+    "lot": "l1",
+    "grade": "乙",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用",
+    "arrived_day": 1
+  },
+  {
+    "id": "p22",
+    "lot": "l1",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "拆解",
+    "arrived_day": 1
+  },
+  {
+    "id": "p23",
+    "lot": "l1",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用后返拆",
+    "arrived_day": 1
+  },
+  {
+    "id": "p24",
+    "lot": "l2",
+    "grade": "乙",
+    "sampling": "优先好件",
+    "prob": 0.25,
+    "suggested_route": "再用",
+    "actual_route": "再用",
+    "arrived_day": 2
+  },
+  {
+    "id": "p25",
+    "lot": "l2",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "拆解",
+    "arrived_day": 2
+  },
+  {
+    "id": "p26",
+    "lot": "l2",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用后返拆",
+    "arrived_day": 2
+  },
+  {
+    "id": "p27",
+    "lot": "l2",
+    "grade": "乙",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用",
+    "arrived_day": 2
+  },
+  {
+    "id": "p28",
+    "lot": "l2",
+    "grade": "甲",
+    "sampling": "优先好件",
+    "prob": 0.25,
+    "suggested_route": "再用",
+    "actual_route": "拆解",
+    "arrived_day": 2
+  },
+  {
+    "id": "p29",
+    "lot": "l2",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用后返拆",
+    "arrived_day": 2
+  },
+  {
+    "id": "p30",
+    "lot": "l2",
+    "grade": "乙",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用",
+    "arrived_day": 2
+  },
+  {
+    "id": "p31",
+    "lot": "l2",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "拆解",
+    "arrived_day": 2
+  },
+  {
+    "id": "p32",
+    "lot": "l2",
+    "grade": "甲",
+    "sampling": "优先好件",
+    "prob": 0.25,
+    "suggested_route": "再用",
+    "actual_route": "再用后返拆",
+    "arrived_day": 2
+  },
+  {
+    "id": "p33",
+    "lot": "l2",
+    "grade": "乙",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用",
+    "arrived_day": 2
+  },
+  {
+    "id": "p34",
+    "lot": "l2",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "拆解",
+    "arrived_day": 2
+  },
+  {
+    "id": "p35",
+    "lot": "l2",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用后返拆",
+    "arrived_day": 2
+  },
+  {
+    "id": "p36",
+    "lot": "l3",
+    "grade": "乙",
+    "sampling": "优先好件",
+    "prob": 0.25,
+    "suggested_route": "再用",
+    "actual_route": "再用",
+    "arrived_day": 3
+  },
+  {
+    "id": "p37",
+    "lot": "l3",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "拆解",
+    "arrived_day": 3
+  },
+  {
+    "id": "p38",
+    "lot": "l3",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用后返拆",
+    "arrived_day": 3
+  },
+  {
+    "id": "p39",
+    "lot": "l3",
+    "grade": "乙",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用",
+    "arrived_day": 3
+  },
+  {
+    "id": "p40",
+    "lot": "l3",
+    "grade": "甲",
+    "sampling": "优先好件",
+    "prob": 0.25,
+    "suggested_route": "再用",
+    "actual_route": "拆解",
+    "arrived_day": 3
+  },
+  {
+    "id": "p41",
+    "lot": "l3",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用后返拆",
+    "arrived_day": 3
+  },
+  {
+    "id": "p42",
+    "lot": "l3",
+    "grade": "乙",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用",
+    "arrived_day": 3
+  },
+  {
+    "id": "p43",
+    "lot": "l3",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "拆解",
+    "arrived_day": 3
+  },
+  {
+    "id": "p44",
+    "lot": "l3",
+    "grade": "甲",
+    "sampling": "优先好件",
+    "prob": 0.25,
+    "suggested_route": "再用",
+    "actual_route": "再用后返拆",
+    "arrived_day": 3
+  },
+  {
+    "id": "p45",
+    "lot": "l3",
+    "grade": "乙",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用",
+    "arrived_day": 3
+  },
+  {
+    "id": "p46",
+    "lot": "l3",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "拆解",
+    "arrived_day": 3
+  },
+  {
+    "id": "p47",
+    "lot": "l3",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用后返拆",
+    "arrived_day": 3
+  },
+  {
+    "id": "p48",
+    "lot": "l4",
+    "grade": "乙",
+    "sampling": "优先好件",
+    "prob": 0.25,
+    "suggested_route": "再用",
+    "actual_route": "再用",
+    "arrived_day": 4
+  },
+  {
+    "id": "p49",
+    "lot": "l4",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "拆解",
+    "arrived_day": 4
+  },
+  {
+    "id": "p50",
+    "lot": "l4",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用后返拆",
+    "arrived_day": 4
+  },
+  {
+    "id": "p51",
+    "lot": "l4",
+    "grade": "乙",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用",
+    "arrived_day": 4
+  },
+  {
+    "id": "p52",
+    "lot": "l4",
+    "grade": "甲",
+    "sampling": "优先好件",
+    "prob": 0.25,
+    "suggested_route": "再用",
+    "actual_route": "拆解",
+    "arrived_day": 4
+  },
+  {
+    "id": "p53",
+    "lot": "l4",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用后返拆",
+    "arrived_day": 4
+  },
+  {
+    "id": "p54",
+    "lot": "l4",
+    "grade": "乙",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用",
+    "arrived_day": 4
+  },
+  {
+    "id": "p55",
+    "lot": "l4",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "拆解",
+    "arrived_day": 4
+  },
+  {
+    "id": "p56",
+    "lot": "l4",
+    "grade": "甲",
+    "sampling": "优先好件",
+    "prob": 0.25,
+    "suggested_route": "再用",
+    "actual_route": "再用后返拆",
+    "arrived_day": 4
+  },
+  {
+    "id": "p57",
+    "lot": "l4",
+    "grade": "乙",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用",
+    "arrived_day": 4
+  },
+  {
+    "id": "p58",
+    "lot": "l4",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "拆解",
+    "arrived_day": 4
+  },
+  {
+    "id": "p59",
+    "lot": "l4",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用后返拆",
+    "arrived_day": 4
+  },
+  {
+    "id": "p60",
+    "lot": "l5",
+    "grade": "乙",
+    "sampling": "优先好件",
+    "prob": 0.25,
+    "suggested_route": "再用",
+    "actual_route": "再用",
+    "arrived_day": 5
+  },
+  {
+    "id": "p61",
+    "lot": "l5",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "拆解",
+    "arrived_day": 5
+  },
+  {
+    "id": "p62",
+    "lot": "l5",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用后返拆",
+    "arrived_day": 5
+  },
+  {
+    "id": "p63",
+    "lot": "l5",
+    "grade": "乙",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用",
+    "arrived_day": 5
+  },
+  {
+    "id": "p64",
+    "lot": "l5",
+    "grade": "甲",
+    "sampling": "优先好件",
+    "prob": 0.25,
+    "suggested_route": "再用",
+    "actual_route": "拆解",
+    "arrived_day": 5
+  },
+  {
+    "id": "p65",
+    "lot": "l5",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用后返拆",
+    "arrived_day": 5
+  },
+  {
+    "id": "p66",
+    "lot": "l5",
+    "grade": "乙",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用",
+    "arrived_day": 5
+  },
+  {
+    "id": "p67",
+    "lot": "l5",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "拆解",
+    "arrived_day": 5
+  },
+  {
+    "id": "p68",
+    "lot": "l5",
+    "grade": "甲",
+    "sampling": "优先好件",
+    "prob": 0.25,
+    "suggested_route": "再用",
+    "actual_route": "再用后返拆",
+    "arrived_day": 5
+  },
+  {
+    "id": "p69",
+    "lot": "l5",
+    "grade": "乙",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用",
+    "arrived_day": 5
+  },
+  {
+    "id": "p70",
+    "lot": "l5",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "拆解",
+    "arrived_day": 5
+  },
+  {
+    "id": "p71",
+    "lot": "l5",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用后返拆",
+    "arrived_day": 5
+  },
+  {
+    "id": "p72",
+    "lot": "l6",
+    "grade": "乙",
+    "sampling": "优先好件",
+    "prob": 0.25,
+    "suggested_route": "再用",
+    "actual_route": "再用",
+    "arrived_day": 6
+  },
+  {
+    "id": "p73",
+    "lot": "l6",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "拆解",
+    "arrived_day": 6
+  },
+  {
+    "id": "p74",
+    "lot": "l6",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用后返拆",
+    "arrived_day": 6
+  },
+  {
+    "id": "p75",
+    "lot": "l6",
+    "grade": "乙",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用",
+    "arrived_day": 6
+  },
+  {
+    "id": "p76",
+    "lot": "l6",
+    "grade": "甲",
+    "sampling": "优先好件",
+    "prob": 0.25,
+    "suggested_route": "再用",
+    "actual_route": "拆解",
+    "arrived_day": 6
+  },
+  {
+    "id": "p77",
+    "lot": "l6",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用后返拆",
+    "arrived_day": 6
+  },
+  {
+    "id": "p78",
+    "lot": "l6",
+    "grade": "乙",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用",
+    "arrived_day": 6
+  },
+  {
+    "id": "p79",
+    "lot": "l6",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "拆解",
+    "arrived_day": 6
+  },
+  {
+    "id": "p80",
+    "lot": "l6",
+    "grade": "甲",
+    "sampling": "优先好件",
+    "prob": 0.25,
+    "suggested_route": "再用",
+    "actual_route": "再用后返拆",
+    "arrived_day": 6
+  },
+  {
+    "id": "p81",
+    "lot": "l6",
+    "grade": "乙",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用",
+    "arrived_day": 6
+  },
+  {
+    "id": "p82",
+    "lot": "l6",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "拆解",
+    "arrived_day": 6
+  },
+  {
+    "id": "p83",
+    "lot": "l6",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用后返拆",
+    "arrived_day": 6
+  },
+  {
+    "id": "p84",
+    "lot": "l7",
+    "grade": "乙",
+    "sampling": "优先好件",
+    "prob": 0.25,
+    "suggested_route": "再用",
+    "actual_route": "再用",
+    "arrived_day": 7
+  },
+  {
+    "id": "p85",
+    "lot": "l7",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "拆解",
+    "arrived_day": 7
+  },
+  {
+    "id": "p86",
+    "lot": "l7",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用后返拆",
+    "arrived_day": 7
+  },
+  {
+    "id": "p87",
+    "lot": "l7",
+    "grade": "乙",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用",
+    "arrived_day": 7
+  },
+  {
+    "id": "p88",
+    "lot": "l7",
+    "grade": "甲",
+    "sampling": "优先好件",
+    "prob": 0.25,
+    "suggested_route": "再用",
+    "actual_route": "拆解",
+    "arrived_day": 7
+  },
+  {
+    "id": "p89",
+    "lot": "l7",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用后返拆",
+    "arrived_day": 7
+  },
+  {
+    "id": "p90",
+    "lot": "l7",
+    "grade": "乙",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用",
+    "arrived_day": 7
+  },
+  {
+    "id": "p91",
+    "lot": "l7",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "拆解",
+    "arrived_day": 7
+  },
+  {
+    "id": "p92",
+    "lot": "l7",
+    "grade": "甲",
+    "sampling": "优先好件",
+    "prob": 0.25,
+    "suggested_route": "再用",
+    "actual_route": "再用后返拆",
+    "arrived_day": 7
+  },
+  {
+    "id": "p93",
+    "lot": "l7",
+    "grade": "乙",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用",
+    "arrived_day": 7
+  },
+  {
+    "id": "p94",
+    "lot": "l7",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "拆解",
+    "arrived_day": 7
+  },
+  {
+    "id": "p95",
+    "lot": "l7",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用后返拆",
+    "arrived_day": 7
+  },
+  {
+    "id": "p96",
+    "lot": "l8",
+    "grade": "乙",
+    "sampling": "优先好件",
+    "prob": 0.25,
+    "suggested_route": "再用",
+    "actual_route": "再用",
+    "arrived_day": 8
+  },
+  {
+    "id": "p97",
+    "lot": "l8",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "拆解",
+    "arrived_day": 8
+  },
+  {
+    "id": "p98",
+    "lot": "l8",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用后返拆",
+    "arrived_day": 8
+  },
+  {
+    "id": "p99",
+    "lot": "l8",
+    "grade": "乙",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用",
+    "arrived_day": 8
+  },
+  {
+    "id": "p100",
+    "lot": "l8",
+    "grade": "甲",
+    "sampling": "优先好件",
+    "prob": 0.25,
+    "suggested_route": "再用",
+    "actual_route": "拆解",
+    "arrived_day": 8
+  },
+  {
+    "id": "p101",
+    "lot": "l8",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用后返拆",
+    "arrived_day": 8
+  },
+  {
+    "id": "p102",
+    "lot": "l8",
+    "grade": "乙",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用",
+    "arrived_day": 8
+  },
+  {
+    "id": "p103",
+    "lot": "l8",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "拆解",
+    "arrived_day": 8
+  },
+  {
+    "id": "p104",
+    "lot": "l8",
+    "grade": "甲",
+    "sampling": "优先好件",
+    "prob": 0.25,
+    "suggested_route": "再用",
+    "actual_route": "再用后返拆",
+    "arrived_day": 8
+  },
+  {
+    "id": "p105",
+    "lot": "l8",
+    "grade": "乙",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用",
+    "arrived_day": 8
+  },
+  {
+    "id": "p106",
+    "lot": "l8",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "拆解",
+    "arrived_day": 8
+  },
+  {
+    "id": "p107",
+    "lot": "l8",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用后返拆",
+    "arrived_day": 8
+  },
+  {
+    "id": "p108",
+    "lot": "l9",
+    "grade": "乙",
+    "sampling": "优先好件",
+    "prob": 0.25,
+    "suggested_route": "再用",
+    "actual_route": "再用",
+    "arrived_day": 9
+  },
+  {
+    "id": "p109",
+    "lot": "l9",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "拆解",
+    "arrived_day": 9
+  },
+  {
+    "id": "p110",
+    "lot": "l9",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用后返拆",
+    "arrived_day": 9
+  },
+  {
+    "id": "p111",
+    "lot": "l9",
+    "grade": "乙",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用",
+    "arrived_day": 9
+  },
+  {
+    "id": "p112",
+    "lot": "l9",
+    "grade": "甲",
+    "sampling": "优先好件",
+    "prob": 0.25,
+    "suggested_route": "再用",
+    "actual_route": "拆解",
+    "arrived_day": 9
+  },
+  {
+    "id": "p113",
+    "lot": "l9",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用后返拆",
+    "arrived_day": 9
+  },
+  {
+    "id": "p114",
+    "lot": "l9",
+    "grade": "乙",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用",
+    "arrived_day": 9
+  },
+  {
+    "id": "p115",
+    "lot": "l9",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "拆解",
+    "arrived_day": 9
+  },
+  {
+    "id": "p116",
+    "lot": "l9",
+    "grade": "甲",
+    "sampling": "优先好件",
+    "prob": 0.25,
+    "suggested_route": "再用",
+    "actual_route": "再用后返拆",
+    "arrived_day": 9
+  },
+  {
+    "id": "p117",
+    "lot": "l9",
+    "grade": "乙",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用",
+    "arrived_day": 9
+  },
+  {
+    "id": "p118",
+    "lot": "l9",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "拆解",
+    "arrived_day": 9
+  },
+  {
+    "id": "p119",
+    "lot": "l9",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用后返拆",
+    "arrived_day": 9
+  },
+  {
+    "id": "p120",
+    "lot": "l10",
+    "grade": "乙",
+    "sampling": "优先好件",
+    "prob": 0.25,
+    "suggested_route": "再用",
+    "actual_route": "再用",
+    "arrived_day": 10
+  },
+  {
+    "id": "p121",
+    "lot": "l10",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "拆解",
+    "arrived_day": 10
+  },
+  {
+    "id": "p122",
+    "lot": "l10",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用后返拆",
+    "arrived_day": 10
+  },
+  {
+    "id": "p123",
+    "lot": "l10",
+    "grade": "乙",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用",
+    "arrived_day": 10
+  },
+  {
+    "id": "p124",
+    "lot": "l10",
+    "grade": "甲",
+    "sampling": "优先好件",
+    "prob": 0.25,
+    "suggested_route": "再用",
+    "actual_route": "拆解",
+    "arrived_day": 10
+  },
+  {
+    "id": "p125",
+    "lot": "l10",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用后返拆",
+    "arrived_day": 10
+  },
+  {
+    "id": "p126",
+    "lot": "l10",
+    "grade": "乙",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用",
+    "arrived_day": 10
+  },
+  {
+    "id": "p127",
+    "lot": "l10",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "拆解",
+    "arrived_day": 10
+  },
+  {
+    "id": "p128",
+    "lot": "l10",
+    "grade": "甲",
+    "sampling": "优先好件",
+    "prob": 0.25,
+    "suggested_route": "再用",
+    "actual_route": "再用后返拆",
+    "arrived_day": 10
+  },
+  {
+    "id": "p129",
+    "lot": "l10",
+    "grade": "乙",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用",
+    "arrived_day": 10
+  },
+  {
+    "id": "p130",
+    "lot": "l10",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "拆解",
+    "arrived_day": 10
+  },
+  {
+    "id": "p131",
+    "lot": "l10",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用后返拆",
+    "arrived_day": 10
+  },
+  {
+    "id": "p132",
+    "lot": "l11",
+    "grade": "乙",
+    "sampling": "优先好件",
+    "prob": 0.25,
+    "suggested_route": "再用",
+    "actual_route": "再用",
+    "arrived_day": 11
+  },
+  {
+    "id": "p133",
+    "lot": "l11",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "拆解",
+    "arrived_day": 11
+  },
+  {
+    "id": "p134",
+    "lot": "l11",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用后返拆",
+    "arrived_day": 11
+  },
+  {
+    "id": "p135",
+    "lot": "l11",
+    "grade": "乙",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用",
+    "arrived_day": 11
+  },
+  {
+    "id": "p136",
+    "lot": "l11",
+    "grade": "甲",
+    "sampling": "优先好件",
+    "prob": 0.25,
+    "suggested_route": "再用",
+    "actual_route": "拆解",
+    "arrived_day": 11
+  },
+  {
+    "id": "p137",
+    "lot": "l11",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用后返拆",
+    "arrived_day": 11
+  },
+  {
+    "id": "p138",
+    "lot": "l11",
+    "grade": "乙",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用",
+    "arrived_day": 11
+  },
+  {
+    "id": "p139",
+    "lot": "l11",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "拆解",
+    "arrived_day": 11
+  },
+  {
+    "id": "p140",
+    "lot": "l11",
+    "grade": "甲",
+    "sampling": "优先好件",
+    "prob": 0.25,
+    "suggested_route": "再用",
+    "actual_route": "再用后返拆",
+    "arrived_day": 11
+  },
+  {
+    "id": "p141",
+    "lot": "l11",
+    "grade": "乙",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用",
+    "arrived_day": 11
+  },
+  {
+    "id": "p142",
+    "lot": "l11",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "拆解",
+    "arrived_day": 11
+  },
+  {
+    "id": "p143",
+    "lot": "l11",
+    "grade": "甲",
+    "sampling": "计划随机",
+    "prob": 0.25,
+    "suggested_route": "拆解",
+    "actual_route": "再用后返拆",
+    "arrived_day": 11
+  }
+]

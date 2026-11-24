@@ -1,0 +1,1682 @@
+[
+  {
+    "id": "f0",
+    "panel": "p0",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 10
+  },
+  {
+    "id": "f1",
+    "panel": "p0",
+    "kind": "再用收入",
+    "amount_cents": 5533,
+    "day": 10
+  },
+  {
+    "id": "f2",
+    "panel": "p1",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 10
+  },
+  {
+    "id": "f3",
+    "panel": "p1",
+    "kind": "材料收入",
+    "amount_cents": 5610,
+    "day": 10
+  },
+  {
+    "id": "f4",
+    "panel": "p2",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 10
+  },
+  {
+    "id": "f5",
+    "panel": "p2",
+    "kind": "材料收入",
+    "amount_cents": 4398,
+    "day": 10
+  },
+  {
+    "id": "f6",
+    "panel": "p3",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 10
+  },
+  {
+    "id": "f7",
+    "panel": "p3",
+    "kind": "再用收入",
+    "amount_cents": 4207,
+    "day": 10
+  },
+  {
+    "id": "f8",
+    "panel": "p4",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 10
+  },
+  {
+    "id": "f9",
+    "panel": "p4",
+    "kind": "材料收入",
+    "amount_cents": 5604,
+    "day": 10
+  },
+  {
+    "id": "f10",
+    "panel": "p5",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 10
+  },
+  {
+    "id": "f11",
+    "panel": "p5",
+    "kind": "材料收入",
+    "amount_cents": 5385,
+    "day": 10
+  },
+  {
+    "id": "f12",
+    "panel": "p6",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 10
+  },
+  {
+    "id": "f13",
+    "panel": "p6",
+    "kind": "再用收入",
+    "amount_cents": 5754,
+    "day": 10
+  },
+  {
+    "id": "f14",
+    "panel": "p7",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 10
+  },
+  {
+    "id": "f15",
+    "panel": "p7",
+    "kind": "材料收入",
+    "amount_cents": 4103,
+    "day": 10
+  },
+  {
+    "id": "f16",
+    "panel": "p8",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 10
+  },
+  {
+    "id": "f17",
+    "panel": "p8",
+    "kind": "材料收入",
+    "amount_cents": 4100,
+    "day": 10
+  },
+  {
+    "id": "f18",
+    "panel": "p9",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 10
+  },
+  {
+    "id": "f19",
+    "panel": "p9",
+    "kind": "再用收入",
+    "amount_cents": 4192,
+    "day": 10
+  },
+  {
+    "id": "f20",
+    "panel": "p10",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 10
+  },
+  {
+    "id": "f21",
+    "panel": "p10",
+    "kind": "材料收入",
+    "amount_cents": 5629,
+    "day": 10
+  },
+  {
+    "id": "f22",
+    "panel": "p11",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 10
+  },
+  {
+    "id": "f23",
+    "panel": "p11",
+    "kind": "材料收入",
+    "amount_cents": 5074,
+    "day": 10
+  },
+  {
+    "id": "f24",
+    "panel": "p12",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 11
+  },
+  {
+    "id": "f25",
+    "panel": "p12",
+    "kind": "再用收入",
+    "amount_cents": 4717,
+    "day": 11
+  },
+  {
+    "id": "f26",
+    "panel": "p13",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 11
+  },
+  {
+    "id": "f27",
+    "panel": "p13",
+    "kind": "材料收入",
+    "amount_cents": 4782,
+    "day": 11
+  },
+  {
+    "id": "f28",
+    "panel": "p14",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 11
+  },
+  {
+    "id": "f29",
+    "panel": "p14",
+    "kind": "材料收入",
+    "amount_cents": 4255,
+    "day": 11
+  },
+  {
+    "id": "f30",
+    "panel": "p15",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 11
+  },
+  {
+    "id": "f31",
+    "panel": "p15",
+    "kind": "再用收入",
+    "amount_cents": 5129,
+    "day": 11
+  },
+  {
+    "id": "f32",
+    "panel": "p16",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 11
+  },
+  {
+    "id": "f33",
+    "panel": "p16",
+    "kind": "材料收入",
+    "amount_cents": 5152,
+    "day": 11
+  },
+  {
+    "id": "f34",
+    "panel": "p17",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 11
+  },
+  {
+    "id": "f35",
+    "panel": "p17",
+    "kind": "材料收入",
+    "amount_cents": 4084,
+    "day": 11
+  },
+  {
+    "id": "f36",
+    "panel": "p18",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 11
+  },
+  {
+    "id": "f37",
+    "panel": "p18",
+    "kind": "再用收入",
+    "amount_cents": 4384,
+    "day": 11
+  },
+  {
+    "id": "f38",
+    "panel": "p19",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 11
+  },
+  {
+    "id": "f39",
+    "panel": "p19",
+    "kind": "材料收入",
+    "amount_cents": 4630,
+    "day": 11
+  },
+  {
+    "id": "f40",
+    "panel": "p20",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 11
+  },
+  {
+    "id": "f41",
+    "panel": "p20",
+    "kind": "材料收入",
+    "amount_cents": 5811,
+    "day": 11
+  },
+  {
+    "id": "f42",
+    "panel": "p21",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 11
+  },
+  {
+    "id": "f43",
+    "panel": "p21",
+    "kind": "再用收入",
+    "amount_cents": 5146,
+    "day": 11
+  },
+  {
+    "id": "f44",
+    "panel": "p22",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 11
+  },
+  {
+    "id": "f45",
+    "panel": "p22",
+    "kind": "材料收入",
+    "amount_cents": 4894,
+    "day": 11
+  },
+  {
+    "id": "f46",
+    "panel": "p23",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 11
+  },
+  {
+    "id": "f47",
+    "panel": "p23",
+    "kind": "材料收入",
+    "amount_cents": 5140,
+    "day": 11
+  },
+  {
+    "id": "f48",
+    "panel": "p24",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 12
+  },
+  {
+    "id": "f49",
+    "panel": "p24",
+    "kind": "再用收入",
+    "amount_cents": 4307,
+    "day": 12
+  },
+  {
+    "id": "f50",
+    "panel": "p25",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 12
+  },
+  {
+    "id": "f51",
+    "panel": "p25",
+    "kind": "材料收入",
+    "amount_cents": 5195,
+    "day": 12
+  },
+  {
+    "id": "f52",
+    "panel": "p26",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 12
+  },
+  {
+    "id": "f53",
+    "panel": "p26",
+    "kind": "材料收入",
+    "amount_cents": 4521,
+    "day": 12
+  },
+  {
+    "id": "f54",
+    "panel": "p27",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 12
+  },
+  {
+    "id": "f55",
+    "panel": "p27",
+    "kind": "再用收入",
+    "amount_cents": 4631,
+    "day": 12
+  },
+  {
+    "id": "f56",
+    "panel": "p28",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 12
+  },
+  {
+    "id": "f57",
+    "panel": "p28",
+    "kind": "材料收入",
+    "amount_cents": 4959,
+    "day": 12
+  },
+  {
+    "id": "f58",
+    "panel": "p29",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 12
+  },
+  {
+    "id": "f59",
+    "panel": "p29",
+    "kind": "材料收入",
+    "amount_cents": 5617,
+    "day": 12
+  },
+  {
+    "id": "f60",
+    "panel": "p30",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 12
+  },
+  {
+    "id": "f61",
+    "panel": "p30",
+    "kind": "再用收入",
+    "amount_cents": 5184,
+    "day": 12
+  },
+  {
+    "id": "f62",
+    "panel": "p31",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 12
+  },
+  {
+    "id": "f63",
+    "panel": "p31",
+    "kind": "材料收入",
+    "amount_cents": 4935,
+    "day": 12
+  },
+  {
+    "id": "f64",
+    "panel": "p32",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 12
+  },
+  {
+    "id": "f65",
+    "panel": "p32",
+    "kind": "材料收入",
+    "amount_cents": 4040,
+    "day": 12
+  },
+  {
+    "id": "f66",
+    "panel": "p33",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 12
+  },
+  {
+    "id": "f67",
+    "panel": "p33",
+    "kind": "再用收入",
+    "amount_cents": 4514,
+    "day": 12
+  },
+  {
+    "id": "f68",
+    "panel": "p34",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 12
+  },
+  {
+    "id": "f69",
+    "panel": "p34",
+    "kind": "材料收入",
+    "amount_cents": 5720,
+    "day": 12
+  },
+  {
+    "id": "f70",
+    "panel": "p35",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 12
+  },
+  {
+    "id": "f71",
+    "panel": "p35",
+    "kind": "材料收入",
+    "amount_cents": 4964,
+    "day": 12
+  },
+  {
+    "id": "f72",
+    "panel": "p36",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 13
+  },
+  {
+    "id": "f73",
+    "panel": "p36",
+    "kind": "再用收入",
+    "amount_cents": 5049,
+    "day": 13
+  },
+  {
+    "id": "f74",
+    "panel": "p37",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 13
+  },
+  {
+    "id": "f75",
+    "panel": "p37",
+    "kind": "材料收入",
+    "amount_cents": 5885,
+    "day": 13
+  },
+  {
+    "id": "f76",
+    "panel": "p38",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 13
+  },
+  {
+    "id": "f77",
+    "panel": "p38",
+    "kind": "材料收入",
+    "amount_cents": 4567,
+    "day": 13
+  },
+  {
+    "id": "f78",
+    "panel": "p39",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 13
+  },
+  {
+    "id": "f79",
+    "panel": "p39",
+    "kind": "再用收入",
+    "amount_cents": 5843,
+    "day": 13
+  },
+  {
+    "id": "f80",
+    "panel": "p40",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 13
+  },
+  {
+    "id": "f81",
+    "panel": "p40",
+    "kind": "材料收入",
+    "amount_cents": 4880,
+    "day": 13
+  },
+  {
+    "id": "f82",
+    "panel": "p41",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 13
+  },
+  {
+    "id": "f83",
+    "panel": "p41",
+    "kind": "材料收入",
+    "amount_cents": 5069,
+    "day": 13
+  },
+  {
+    "id": "f84",
+    "panel": "p42",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 13
+  },
+  {
+    "id": "f85",
+    "panel": "p42",
+    "kind": "再用收入",
+    "amount_cents": 4434,
+    "day": 13
+  },
+  {
+    "id": "f86",
+    "panel": "p43",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 13
+  },
+  {
+    "id": "f87",
+    "panel": "p43",
+    "kind": "材料收入",
+    "amount_cents": 4154,
+    "day": 13
+  },
+  {
+    "id": "f88",
+    "panel": "p44",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 13
+  },
+  {
+    "id": "f89",
+    "panel": "p44",
+    "kind": "材料收入",
+    "amount_cents": 5069,
+    "day": 13
+  },
+  {
+    "id": "f90",
+    "panel": "p45",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 13
+  },
+  {
+    "id": "f91",
+    "panel": "p45",
+    "kind": "再用收入",
+    "amount_cents": 4033,
+    "day": 13
+  },
+  {
+    "id": "f92",
+    "panel": "p46",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 13
+  },
+  {
+    "id": "f93",
+    "panel": "p46",
+    "kind": "材料收入",
+    "amount_cents": 4930,
+    "day": 13
+  },
+  {
+    "id": "f94",
+    "panel": "p47",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 13
+  },
+  {
+    "id": "f95",
+    "panel": "p47",
+    "kind": "材料收入",
+    "amount_cents": 5884,
+    "day": 13
+  },
+  {
+    "id": "f96",
+    "panel": "p48",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 14
+  },
+  {
+    "id": "f97",
+    "panel": "p48",
+    "kind": "再用收入",
+    "amount_cents": 4464,
+    "day": 14
+  },
+  {
+    "id": "f98",
+    "panel": "p49",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 14
+  },
+  {
+    "id": "f99",
+    "panel": "p49",
+    "kind": "材料收入",
+    "amount_cents": 4551,
+    "day": 14
+  },
+  {
+    "id": "f100",
+    "panel": "p50",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 14
+  },
+  {
+    "id": "f101",
+    "panel": "p50",
+    "kind": "材料收入",
+    "amount_cents": 4407,
+    "day": 14
+  },
+  {
+    "id": "f102",
+    "panel": "p51",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 14
+  },
+  {
+    "id": "f103",
+    "panel": "p51",
+    "kind": "再用收入",
+    "amount_cents": 5283,
+    "day": 14
+  },
+  {
+    "id": "f104",
+    "panel": "p52",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 14
+  },
+  {
+    "id": "f105",
+    "panel": "p52",
+    "kind": "材料收入",
+    "amount_cents": 4171,
+    "day": 14
+  },
+  {
+    "id": "f106",
+    "panel": "p53",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 14
+  },
+  {
+    "id": "f107",
+    "panel": "p53",
+    "kind": "材料收入",
+    "amount_cents": 4646,
+    "day": 14
+  },
+  {
+    "id": "f108",
+    "panel": "p54",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 14
+  },
+  {
+    "id": "f109",
+    "panel": "p54",
+    "kind": "再用收入",
+    "amount_cents": 5501,
+    "day": 14
+  },
+  {
+    "id": "f110",
+    "panel": "p55",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 14
+  },
+  {
+    "id": "f111",
+    "panel": "p55",
+    "kind": "材料收入",
+    "amount_cents": 5595,
+    "day": 14
+  },
+  {
+    "id": "f112",
+    "panel": "p56",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 14
+  },
+  {
+    "id": "f113",
+    "panel": "p56",
+    "kind": "材料收入",
+    "amount_cents": 5336,
+    "day": 14
+  },
+  {
+    "id": "f114",
+    "panel": "p57",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 14
+  },
+  {
+    "id": "f115",
+    "panel": "p57",
+    "kind": "再用收入",
+    "amount_cents": 4908,
+    "day": 14
+  },
+  {
+    "id": "f116",
+    "panel": "p58",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 14
+  },
+  {
+    "id": "f117",
+    "panel": "p58",
+    "kind": "材料收入",
+    "amount_cents": 4669,
+    "day": 14
+  },
+  {
+    "id": "f118",
+    "panel": "p59",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 14
+  },
+  {
+    "id": "f119",
+    "panel": "p59",
+    "kind": "材料收入",
+    "amount_cents": 4553,
+    "day": 14
+  },
+  {
+    "id": "f120",
+    "panel": "p60",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 15
+  },
+  {
+    "id": "f121",
+    "panel": "p60",
+    "kind": "再用收入",
+    "amount_cents": 5633,
+    "day": 15
+  },
+  {
+    "id": "f122",
+    "panel": "p61",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 15
+  },
+  {
+    "id": "f123",
+    "panel": "p61",
+    "kind": "材料收入",
+    "amount_cents": 5825,
+    "day": 15
+  },
+  {
+    "id": "f124",
+    "panel": "p62",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 15
+  },
+  {
+    "id": "f125",
+    "panel": "p62",
+    "kind": "材料收入",
+    "amount_cents": 4436,
+    "day": 15
+  },
+  {
+    "id": "f126",
+    "panel": "p63",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 15
+  },
+  {
+    "id": "f127",
+    "panel": "p63",
+    "kind": "再用收入",
+    "amount_cents": 4607,
+    "day": 15
+  },
+  {
+    "id": "f128",
+    "panel": "p64",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 15
+  },
+  {
+    "id": "f129",
+    "panel": "p64",
+    "kind": "材料收入",
+    "amount_cents": 5687,
+    "day": 15
+  },
+  {
+    "id": "f130",
+    "panel": "p65",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 15
+  },
+  {
+    "id": "f131",
+    "panel": "p65",
+    "kind": "材料收入",
+    "amount_cents": 4929,
+    "day": 15
+  },
+  {
+    "id": "f132",
+    "panel": "p66",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 15
+  },
+  {
+    "id": "f133",
+    "panel": "p66",
+    "kind": "再用收入",
+    "amount_cents": 5104,
+    "day": 15
+  },
+  {
+    "id": "f134",
+    "panel": "p67",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 15
+  },
+  {
+    "id": "f135",
+    "panel": "p67",
+    "kind": "材料收入",
+    "amount_cents": 5575,
+    "day": 15
+  },
+  {
+    "id": "f136",
+    "panel": "p68",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 15
+  },
+  {
+    "id": "f137",
+    "panel": "p68",
+    "kind": "材料收入",
+    "amount_cents": 4819,
+    "day": 15
+  },
+  {
+    "id": "f138",
+    "panel": "p69",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 15
+  },
+  {
+    "id": "f139",
+    "panel": "p69",
+    "kind": "再用收入",
+    "amount_cents": 5258,
+    "day": 15
+  },
+  {
+    "id": "f140",
+    "panel": "p70",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 15
+  },
+  {
+    "id": "f141",
+    "panel": "p70",
+    "kind": "材料收入",
+    "amount_cents": 4227,
+    "day": 15
+  },
+  {
+    "id": "f142",
+    "panel": "p71",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 15
+  },
+  {
+    "id": "f143",
+    "panel": "p71",
+    "kind": "材料收入",
+    "amount_cents": 5904,
+    "day": 15
+  },
+  {
+    "id": "f144",
+    "panel": "p72",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 16
+  },
+  {
+    "id": "f145",
+    "panel": "p72",
+    "kind": "再用收入",
+    "amount_cents": 4831,
+    "day": 16
+  },
+  {
+    "id": "f146",
+    "panel": "p73",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 16
+  },
+  {
+    "id": "f147",
+    "panel": "p73",
+    "kind": "材料收入",
+    "amount_cents": 5200,
+    "day": 16
+  },
+  {
+    "id": "f148",
+    "panel": "p74",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 16
+  },
+  {
+    "id": "f149",
+    "panel": "p74",
+    "kind": "材料收入",
+    "amount_cents": 4470,
+    "day": 16
+  },
+  {
+    "id": "f150",
+    "panel": "p75",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 16
+  },
+  {
+    "id": "f151",
+    "panel": "p75",
+    "kind": "再用收入",
+    "amount_cents": 5675,
+    "day": 16
+  },
+  {
+    "id": "f152",
+    "panel": "p76",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 16
+  },
+  {
+    "id": "f153",
+    "panel": "p76",
+    "kind": "材料收入",
+    "amount_cents": 4075,
+    "day": 16
+  },
+  {
+    "id": "f154",
+    "panel": "p77",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 16
+  },
+  {
+    "id": "f155",
+    "panel": "p77",
+    "kind": "材料收入",
+    "amount_cents": 5550,
+    "day": 16
+  },
+  {
+    "id": "f156",
+    "panel": "p78",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 16
+  },
+  {
+    "id": "f157",
+    "panel": "p78",
+    "kind": "再用收入",
+    "amount_cents": 4074,
+    "day": 16
+  },
+  {
+    "id": "f158",
+    "panel": "p79",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 16
+  },
+  {
+    "id": "f159",
+    "panel": "p79",
+    "kind": "材料收入",
+    "amount_cents": 5514,
+    "day": 16
+  },
+  {
+    "id": "f160",
+    "panel": "p80",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 16
+  },
+  {
+    "id": "f161",
+    "panel": "p80",
+    "kind": "材料收入",
+    "amount_cents": 4172,
+    "day": 16
+  },
+  {
+    "id": "f162",
+    "panel": "p81",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 16
+  },
+  {
+    "id": "f163",
+    "panel": "p81",
+    "kind": "再用收入",
+    "amount_cents": 4451,
+    "day": 16
+  },
+  {
+    "id": "f164",
+    "panel": "p82",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 16
+  },
+  {
+    "id": "f165",
+    "panel": "p82",
+    "kind": "材料收入",
+    "amount_cents": 5983,
+    "day": 16
+  },
+  {
+    "id": "f166",
+    "panel": "p83",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 16
+  },
+  {
+    "id": "f167",
+    "panel": "p83",
+    "kind": "材料收入",
+    "amount_cents": 4043,
+    "day": 16
+  },
+  {
+    "id": "f168",
+    "panel": "p84",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 17
+  },
+  {
+    "id": "f169",
+    "panel": "p84",
+    "kind": "再用收入",
+    "amount_cents": 4812,
+    "day": 17
+  },
+  {
+    "id": "f170",
+    "panel": "p85",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 17
+  },
+  {
+    "id": "f171",
+    "panel": "p85",
+    "kind": "材料收入",
+    "amount_cents": 5119,
+    "day": 17
+  },
+  {
+    "id": "f172",
+    "panel": "p86",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 17
+  },
+  {
+    "id": "f173",
+    "panel": "p86",
+    "kind": "材料收入",
+    "amount_cents": 5055,
+    "day": 17
+  },
+  {
+    "id": "f174",
+    "panel": "p87",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 17
+  },
+  {
+    "id": "f175",
+    "panel": "p87",
+    "kind": "再用收入",
+    "amount_cents": 5531,
+    "day": 17
+  },
+  {
+    "id": "f176",
+    "panel": "p88",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 17
+  },
+  {
+    "id": "f177",
+    "panel": "p88",
+    "kind": "材料收入",
+    "amount_cents": 5071,
+    "day": 17
+  },
+  {
+    "id": "f178",
+    "panel": "p89",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 17
+  },
+  {
+    "id": "f179",
+    "panel": "p89",
+    "kind": "材料收入",
+    "amount_cents": 5852,
+    "day": 17
+  },
+  {
+    "id": "f180",
+    "panel": "p90",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 17
+  },
+  {
+    "id": "f181",
+    "panel": "p90",
+    "kind": "再用收入",
+    "amount_cents": 4644,
+    "day": 17
+  },
+  {
+    "id": "f182",
+    "panel": "p91",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 17
+  },
+  {
+    "id": "f183",
+    "panel": "p91",
+    "kind": "材料收入",
+    "amount_cents": 5918,
+    "day": 17
+  },
+  {
+    "id": "f184",
+    "panel": "p92",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 17
+  },
+  {
+    "id": "f185",
+    "panel": "p92",
+    "kind": "材料收入",
+    "amount_cents": 5520,
+    "day": 17
+  },
+  {
+    "id": "f186",
+    "panel": "p93",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 17
+  },
+  {
+    "id": "f187",
+    "panel": "p93",
+    "kind": "再用收入",
+    "amount_cents": 5342,
+    "day": 17
+  },
+  {
+    "id": "f188",
+    "panel": "p94",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 17
+  },
+  {
+    "id": "f189",
+    "panel": "p94",
+    "kind": "材料收入",
+    "amount_cents": 4348,
+    "day": 17
+  },
+  {
+    "id": "f190",
+    "panel": "p95",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 17
+  },
+  {
+    "id": "f191",
+    "panel": "p95",
+    "kind": "材料收入",
+    "amount_cents": 5275,
+    "day": 17
+  },
+  {
+    "id": "f192",
+    "panel": "p96",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 18
+  },
+  {
+    "id": "f193",
+    "panel": "p96",
+    "kind": "再用收入",
+    "amount_cents": 4230,
+    "day": 18
+  },
+  {
+    "id": "f194",
+    "panel": "p97",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 18
+  },
+  {
+    "id": "f195",
+    "panel": "p97",
+    "kind": "材料收入",
+    "amount_cents": 5367,
+    "day": 18
+  },
+  {
+    "id": "f196",
+    "panel": "p98",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 18
+  },
+  {
+    "id": "f197",
+    "panel": "p98",
+    "kind": "材料收入",
+    "amount_cents": 5835,
+    "day": 18
+  },
+  {
+    "id": "f198",
+    "panel": "p99",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 18
+  },
+  {
+    "id": "f199",
+    "panel": "p99",
+    "kind": "再用收入",
+    "amount_cents": 4658,
+    "day": 18
+  },
+  {
+    "id": "f200",
+    "panel": "p100",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 18
+  },
+  {
+    "id": "f201",
+    "panel": "p100",
+    "kind": "材料收入",
+    "amount_cents": 5618,
+    "day": 18
+  },
+  {
+    "id": "f202",
+    "panel": "p101",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 18
+  },
+  {
+    "id": "f203",
+    "panel": "p101",
+    "kind": "材料收入",
+    "amount_cents": 4560,
+    "day": 18
+  },
+  {
+    "id": "f204",
+    "panel": "p102",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 18
+  },
+  {
+    "id": "f205",
+    "panel": "p102",
+    "kind": "再用收入",
+    "amount_cents": 5817,
+    "day": 18
+  },
+  {
+    "id": "f206",
+    "panel": "p103",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 18
+  },
+  {
+    "id": "f207",
+    "panel": "p103",
+    "kind": "材料收入",
+    "amount_cents": 4351,
+    "day": 18
+  },
+  {
+    "id": "f208",
+    "panel": "p104",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 18
+  },
+  {
+    "id": "f209",
+    "panel": "p104",
+    "kind": "材料收入",
+    "amount_cents": 4737,
+    "day": 18
+  },
+  {
+    "id": "f210",
+    "panel": "p105",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 18
+  },
+  {
+    "id": "f211",
+    "panel": "p105",
+    "kind": "再用收入",
+    "amount_cents": 4610,
+    "day": 18
+  },
+  {
+    "id": "f212",
+    "panel": "p106",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 18
+  },
+  {
+    "id": "f213",
+    "panel": "p106",
+    "kind": "材料收入",
+    "amount_cents": 4294,
+    "day": 18
+  },
+  {
+    "id": "f214",
+    "panel": "p107",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 18
+  },
+  {
+    "id": "f215",
+    "panel": "p107",
+    "kind": "材料收入",
+    "amount_cents": 4594,
+    "day": 18
+  },
+  {
+    "id": "f216",
+    "panel": "p108",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 19
+  },
+  {
+    "id": "f217",
+    "panel": "p108",
+    "kind": "再用收入",
+    "amount_cents": 4841,
+    "day": 19
+  },
+  {
+    "id": "f218",
+    "panel": "p109",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 19
+  },
+  {
+    "id": "f219",
+    "panel": "p109",
+    "kind": "材料收入",
+    "amount_cents": 5637,
+    "day": 19
+  },
+  {
+    "id": "f220",
+    "panel": "p110",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 19
+  },
+  {
+    "id": "f221",
+    "panel": "p110",
+    "kind": "材料收入",
+    "amount_cents": 5395,
+    "day": 19
+  },
+  {
+    "id": "f222",
+    "panel": "p111",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 19
+  },
+  {
+    "id": "f223",
+    "panel": "p111",
+    "kind": "再用收入",
+    "amount_cents": 4497,
+    "day": 19
+  },
+  {
+    "id": "f224",
+    "panel": "p112",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 19
+  },
+  {
+    "id": "f225",
+    "panel": "p112",
+    "kind": "材料收入",
+    "amount_cents": 5212,
+    "day": 19
+  },
+  {
+    "id": "f226",
+    "panel": "p113",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 19
+  },
+  {
+    "id": "f227",
+    "panel": "p113",
+    "kind": "材料收入",
+    "amount_cents": 5407,
+    "day": 19
+  },
+  {
+    "id": "f228",
+    "panel": "p114",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 19
+  },
+  {
+    "id": "f229",
+    "panel": "p114",
+    "kind": "再用收入",
+    "amount_cents": 5393,
+    "day": 19
+  },
+  {
+    "id": "f230",
+    "panel": "p115",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 19
+  },
+  {
+    "id": "f231",
+    "panel": "p115",
+    "kind": "材料收入",
+    "amount_cents": 5722,
+    "day": 19
+  },
+  {
+    "id": "f232",
+    "panel": "p116",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 19
+  },
+  {
+    "id": "f233",
+    "panel": "p116",
+    "kind": "材料收入",
+    "amount_cents": 5110,
+    "day": 19
+  },
+  {
+    "id": "f234",
+    "panel": "p117",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 19
+  },
+  {
+    "id": "f235",
+    "panel": "p117",
+    "kind": "再用收入",
+    "amount_cents": 5113,
+    "day": 19
+  },
+  {
+    "id": "f236",
+    "panel": "p118",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 19
+  },
+  {
+    "id": "f237",
+    "panel": "p118",
+    "kind": "材料收入",
+    "amount_cents": 5174,
+    "day": 19
+  },
+  {
+    "id": "f238",
+    "panel": "p119",
+    "kind": "检测费",
+    "amount_cents": 200,
+    "day": 19
+  },
+  {
+    "id": "f239",
+    "panel": "p119",
+    "kind": "材料收入",
+    "amount_cents": 5402,
+    "day": 19
+  }
+]

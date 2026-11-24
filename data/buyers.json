@@ -1,0 +1,18 @@
+[
+  {
+    "id": "b1",
+    "buyer": "甲",
+    "grade": "甲",
+    "age_max": 15,
+    "effective_day": 20,
+    "capacity": 40
+  },
+  {
+    "id": "b2",
+    "buyer": "甲",
+    "grade": "甲",
+    "age_max": 10,
+    "effective_day": 28,
+    "capacity": 20
+  }
+]

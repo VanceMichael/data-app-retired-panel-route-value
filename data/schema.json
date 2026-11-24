@@ -1,0 +1,241 @@
+{
+  "format_version": 1,
+  "synthetic": true,
+  "tables": {
+    "lots": {
+      "description": "到货来源及初检",
+      "columns": {
+        "id": {
+          "type": "string",
+          "description": "来源批"
+        },
+        "source": {
+          "type": "string",
+          "description": "来源"
+        },
+        "age_years": {
+          "type": "number",
+          "description": "服役年数"
+        },
+        "qty": {
+          "type": "integer",
+          "description": "片数"
+        },
+        "purchase_cents": {
+          "type": "integer",
+          "description": "整批购买额"
+        },
+        "initial_grade": {
+          "type": "string",
+          "description": "初检级"
+        }
+      },
+      "refs": {}
+    },
+    "panels": {
+      "description": "组件分流和选择方式",
+      "columns": {
+        "id": {
+          "type": "string",
+          "description": "组件"
+        },
+        "lot": {
+          "type": "string",
+          "description": "来源批"
+        },
+        "grade": {
+          "type": "string",
+          "description": "初检"
+        },
+        "sampling": {
+          "type": "string",
+          "description": "计划随机或优先好件"
+        },
+        "prob": {
+          "type": "number",
+          "description": "计划概率"
+        },
+        "suggested_route": {
+          "type": "string",
+          "description": "建议"
+        },
+        "actual_route": {
+          "type": "string",
+          "description": "实际路径"
+        },
+        "arrived_day": {
+          "type": "integer",
+          "description": "到货日"
+        }
+      },
+      "refs": {
+        "lot": "lots.id"
+      }
+    },
+    "flows": {
+      "description": "组件费用和收入独立记录，分；没有销售记录不代表零收益",
+      "columns": {
+        "id": {
+          "type": "string",
+          "description": "收支"
+        },
+        "panel": {
+          "type": "string",
+          "description": "组件"
+        },
+        "kind": {
+          "type": "string",
+          "description": "检测费或拆解费或再用收入或材料收入"
+        },
+        "amount_cents": {
+          "type": "integer",
+          "description": "金额"
+        },
+        "day": {
+          "type": "integer",
+          "description": "发生日"
+        }
+      },
+      "refs": {
+        "panel": "panels.id"
+      }
+    },
+    "route_states": {
+      "description": "处置成熟状态与等待事实",
+      "columns": {
+        "id": {
+          "type": "string",
+          "description": "记录"
+        },
+        "panel": {
+          "type": "string",
+          "description": "组件"
+        },
+        "state": {
+          "type": "string",
+          "description": "待售或已结束或返拆中"
+        },
+        "observed_day": {
+          "type": "integer",
+          "description": "观察日"
+        }
+      },
+      "refs": {
+        "panel": "panels.id"
+      }
+    },
+    "buyers": {
+      "description": "再用买家有效规格与变化",
+      "columns": {
+        "id": {
+          "type": "string",
+          "description": "条件"
+        },
+        "buyer": {
+          "type": "string",
+          "description": "买家"
+        },
+        "grade": {
+          "type": "string",
+          "description": "可接受级"
+        },
+        "age_max": {
+          "type": "integer",
+          "description": "最大年数"
+        },
+        "effective_day": {
+          "type": "integer",
+          "description": "起效日"
+        },
+        "capacity": {
+          "type": "integer",
+          "description": "承购片数"
+        }
+      },
+      "refs": {}
+    },
+    "capacities": {
+      "description": "下期检测与拆解能力",
+      "columns": {
+        "id": {
+          "type": "string",
+          "description": "能力"
+        },
+        "kind": {
+          "type": "string",
+          "description": "检测或拆解"
+        },
+        "day": {
+          "type": "integer",
+          "description": "日序"
+        },
+        "qty": {
+          "type": "integer",
+          "description": "片数"
+        },
+        "reserved": {
+          "type": "integer",
+          "description": "原承诺占用"
+        }
+      },
+      "refs": {}
+    },
+    "quotes": {
+      "description": "已接受报价是收货义务",
+      "columns": {
+        "id": {
+          "type": "string",
+          "description": "报价"
+        },
+        "lot": {
+          "type": "string",
+          "description": "来源批"
+        },
+        "qty": {
+          "type": "integer",
+          "description": "收货片数"
+        },
+        "price_cents": {
+          "type": "integer",
+          "description": "每片价"
+        },
+        "valid_day": {
+          "type": "integer",
+          "description": "有效截止"
+        },
+        "state": {
+          "type": "string",
+          "description": "已接受或拟议"
+        }
+      },
+      "refs": {
+        "lot": "lots.id"
+      }
+    },
+    "reservations": {
+      "description": "已占用能力的来源",
+      "columns": {
+        "id": {
+          "type": "string",
+          "description": "预留"
+        },
+        "quote": {
+          "type": "string",
+          "description": "报价"
+        },
+        "capacity": {
+          "type": "string",
+          "description": "能力"
+        },
+        "qty": {
+          "type": "integer",
+          "description": "数量"
+        }
+      },
+      "refs": {
+        "quote": "quotes.id",
+        "capacity": "capacities.id"
+      }
+    }
+  }
+}
