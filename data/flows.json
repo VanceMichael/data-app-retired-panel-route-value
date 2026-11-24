@@ -1678,5 +1678,677 @@
     "kind": "材料收入",
     "amount_cents": 5402,
     "day": 19
+  },
+  {
+    "id": "dismantle-p1",
+    "panel": "p1",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 15
+  },
+  {
+    "id": "dismantle-p2",
+    "panel": "p2",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 15
+  },
+  {
+    "id": "dismantle-p4",
+    "panel": "p4",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 15
+  },
+  {
+    "id": "dismantle-p5",
+    "panel": "p5",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 15
+  },
+  {
+    "id": "dismantle-p7",
+    "panel": "p7",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 15
+  },
+  {
+    "id": "dismantle-p8",
+    "panel": "p8",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 15
+  },
+  {
+    "id": "dismantle-p10",
+    "panel": "p10",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 15
+  },
+  {
+    "id": "dismantle-p11",
+    "panel": "p11",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 15
+  },
+  {
+    "id": "dismantle-p13",
+    "panel": "p13",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 16
+  },
+  {
+    "id": "dismantle-p14",
+    "panel": "p14",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 16
+  },
+  {
+    "id": "dismantle-p16",
+    "panel": "p16",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 16
+  },
+  {
+    "id": "dismantle-p17",
+    "panel": "p17",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 16
+  },
+  {
+    "id": "dismantle-p19",
+    "panel": "p19",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 16
+  },
+  {
+    "id": "dismantle-p20",
+    "panel": "p20",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 16
+  },
+  {
+    "id": "dismantle-p22",
+    "panel": "p22",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 16
+  },
+  {
+    "id": "dismantle-p23",
+    "panel": "p23",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 16
+  },
+  {
+    "id": "dismantle-p25",
+    "panel": "p25",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 17
+  },
+  {
+    "id": "dismantle-p26",
+    "panel": "p26",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 17
+  },
+  {
+    "id": "dismantle-p28",
+    "panel": "p28",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 17
+  },
+  {
+    "id": "dismantle-p29",
+    "panel": "p29",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 17
+  },
+  {
+    "id": "dismantle-p31",
+    "panel": "p31",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 17
+  },
+  {
+    "id": "dismantle-p32",
+    "panel": "p32",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 17
+  },
+  {
+    "id": "dismantle-p34",
+    "panel": "p34",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 17
+  },
+  {
+    "id": "dismantle-p35",
+    "panel": "p35",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 17
+  },
+  {
+    "id": "dismantle-p37",
+    "panel": "p37",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 18
+  },
+  {
+    "id": "dismantle-p38",
+    "panel": "p38",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 18
+  },
+  {
+    "id": "dismantle-p40",
+    "panel": "p40",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 18
+  },
+  {
+    "id": "dismantle-p41",
+    "panel": "p41",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 18
+  },
+  {
+    "id": "dismantle-p43",
+    "panel": "p43",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 18
+  },
+  {
+    "id": "dismantle-p44",
+    "panel": "p44",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 18
+  },
+  {
+    "id": "dismantle-p46",
+    "panel": "p46",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 18
+  },
+  {
+    "id": "dismantle-p47",
+    "panel": "p47",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 18
+  },
+  {
+    "id": "dismantle-p49",
+    "panel": "p49",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 19
+  },
+  {
+    "id": "dismantle-p50",
+    "panel": "p50",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 19
+  },
+  {
+    "id": "dismantle-p52",
+    "panel": "p52",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 19
+  },
+  {
+    "id": "dismantle-p53",
+    "panel": "p53",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 19
+  },
+  {
+    "id": "dismantle-p55",
+    "panel": "p55",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 19
+  },
+  {
+    "id": "dismantle-p56",
+    "panel": "p56",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 19
+  },
+  {
+    "id": "dismantle-p58",
+    "panel": "p58",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 19
+  },
+  {
+    "id": "dismantle-p59",
+    "panel": "p59",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 19
+  },
+  {
+    "id": "dismantle-p61",
+    "panel": "p61",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 20
+  },
+  {
+    "id": "dismantle-p62",
+    "panel": "p62",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 20
+  },
+  {
+    "id": "dismantle-p64",
+    "panel": "p64",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 20
+  },
+  {
+    "id": "dismantle-p65",
+    "panel": "p65",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 20
+  },
+  {
+    "id": "dismantle-p67",
+    "panel": "p67",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 20
+  },
+  {
+    "id": "dismantle-p68",
+    "panel": "p68",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 20
+  },
+  {
+    "id": "dismantle-p70",
+    "panel": "p70",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 20
+  },
+  {
+    "id": "dismantle-p71",
+    "panel": "p71",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 20
+  },
+  {
+    "id": "dismantle-p73",
+    "panel": "p73",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 21
+  },
+  {
+    "id": "dismantle-p74",
+    "panel": "p74",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 21
+  },
+  {
+    "id": "dismantle-p76",
+    "panel": "p76",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 21
+  },
+  {
+    "id": "dismantle-p77",
+    "panel": "p77",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 21
+  },
+  {
+    "id": "dismantle-p79",
+    "panel": "p79",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 21
+  },
+  {
+    "id": "dismantle-p80",
+    "panel": "p80",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 21
+  },
+  {
+    "id": "dismantle-p82",
+    "panel": "p82",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 21
+  },
+  {
+    "id": "dismantle-p83",
+    "panel": "p83",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 21
+  },
+  {
+    "id": "dismantle-p85",
+    "panel": "p85",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 22
+  },
+  {
+    "id": "dismantle-p86",
+    "panel": "p86",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 22
+  },
+  {
+    "id": "dismantle-p88",
+    "panel": "p88",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 22
+  },
+  {
+    "id": "dismantle-p89",
+    "panel": "p89",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 22
+  },
+  {
+    "id": "dismantle-p91",
+    "panel": "p91",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 22
+  },
+  {
+    "id": "dismantle-p92",
+    "panel": "p92",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 22
+  },
+  {
+    "id": "dismantle-p94",
+    "panel": "p94",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 22
+  },
+  {
+    "id": "dismantle-p95",
+    "panel": "p95",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 22
+  },
+  {
+    "id": "dismantle-p97",
+    "panel": "p97",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 23
+  },
+  {
+    "id": "dismantle-p98",
+    "panel": "p98",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 23
+  },
+  {
+    "id": "dismantle-p100",
+    "panel": "p100",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 23
+  },
+  {
+    "id": "dismantle-p101",
+    "panel": "p101",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 23
+  },
+  {
+    "id": "dismantle-p103",
+    "panel": "p103",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 23
+  },
+  {
+    "id": "dismantle-p104",
+    "panel": "p104",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 23
+  },
+  {
+    "id": "dismantle-p106",
+    "panel": "p106",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 23
+  },
+  {
+    "id": "dismantle-p107",
+    "panel": "p107",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 23
+  },
+  {
+    "id": "dismantle-p109",
+    "panel": "p109",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 24
+  },
+  {
+    "id": "dismantle-p110",
+    "panel": "p110",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 24
+  },
+  {
+    "id": "dismantle-p112",
+    "panel": "p112",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 24
+  },
+  {
+    "id": "dismantle-p113",
+    "panel": "p113",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 24
+  },
+  {
+    "id": "dismantle-p115",
+    "panel": "p115",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 24
+  },
+  {
+    "id": "dismantle-p116",
+    "panel": "p116",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 24
+  },
+  {
+    "id": "dismantle-p118",
+    "panel": "p118",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 24
+  },
+  {
+    "id": "dismantle-p119",
+    "panel": "p119",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 24
+  },
+  {
+    "id": "dismantle-p121",
+    "panel": "p121",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 25
+  },
+  {
+    "id": "dismantle-p122",
+    "panel": "p122",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 25
+  },
+  {
+    "id": "dismantle-p124",
+    "panel": "p124",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 25
+  },
+  {
+    "id": "dismantle-p125",
+    "panel": "p125",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 25
+  },
+  {
+    "id": "dismantle-p127",
+    "panel": "p127",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 25
+  },
+  {
+    "id": "dismantle-p128",
+    "panel": "p128",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 25
+  },
+  {
+    "id": "dismantle-p130",
+    "panel": "p130",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 25
+  },
+  {
+    "id": "dismantle-p131",
+    "panel": "p131",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 25
+  },
+  {
+    "id": "dismantle-p133",
+    "panel": "p133",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 26
+  },
+  {
+    "id": "dismantle-p134",
+    "panel": "p134",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 26
+  },
+  {
+    "id": "dismantle-p136",
+    "panel": "p136",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 26
+  },
+  {
+    "id": "dismantle-p137",
+    "panel": "p137",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 26
+  },
+  {
+    "id": "dismantle-p139",
+    "panel": "p139",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 26
+  },
+  {
+    "id": "dismantle-p140",
+    "panel": "p140",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 26
+  },
+  {
+    "id": "dismantle-p142",
+    "panel": "p142",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 26
+  },
+  {
+    "id": "dismantle-p143",
+    "panel": "p143",
+    "kind": "拆解费",
+    "amount_cents": 600,
+    "day": 26
   }
 ]
